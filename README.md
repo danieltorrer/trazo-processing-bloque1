@@ -22,7 +22,7 @@ Dentro de este repositorio se podran encontrar los materiales que se manejan den
 ## Material
 [Descargar processing] (https://processing.org/download/?processing)  
 
-[Modo Javascript] (https://github.com/fjenett/javascript-mode-processing/releases/tag/latest)
+[Modo Javascript] (https://raw.githubusercontent.com/fjenett/javascript-mode-processing/8204f3ccd7042cac73ee2950b8dfcdc3b4b44bfd/release/JavaScriptMode.zip)
 
 [Historia Net.Art] (https://www.dropbox.com/s/l8rwowqkw904uop/netart_yosedo.pdf?dl=0)
 
