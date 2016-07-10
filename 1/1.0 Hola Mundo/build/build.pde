@@ -1,1 +1,2 @@
-ellipse(50, 50, 50, 50);
+ellipse(0, 50, 60, 60);
+// elipse      x   y  ancho alto

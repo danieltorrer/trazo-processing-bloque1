@@ -1,4 +1,4 @@
-rect(30,25, 50, 40);
+rect(30,25, 50, 50);
 
 /*
 Dibuja un rectángulo
