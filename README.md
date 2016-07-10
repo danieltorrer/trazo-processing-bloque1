@@ -3,10 +3,30 @@ El presente curso de processing para TRAZO explora las posibilidades de creació
 
 Dentro de este repositorio se podran encontrar los materiales que se manejan dentro del curso
 
+## Referencia
+
+### Figuras
+
+![Imgur](http://i.imgur.com/ICttPt8.png)
+
+![Imgur](http://i.imgur.com/t2fzUYw.png)
+
+### Sistema de coordenadas
+
+![Imgur](http://i.imgur.com/gR5CbRD.png)
+
+![Imgur](http://i.imgur.com/P4RolZ7.png)
+
+![Imgur](http://i.imgur.com/C4jUs19.png)
+
 ## Material
 [Descargar processing] (https://processing.org/download/?processing)  
 
 [Modo Javascript] (https://github.com/fjenett/javascript-mode-processing/releases/tag/latest)
+
+[Historia Net.Art] (https://www.dropbox.com/s/l8rwowqkw904uop/netart_yosedo.pdf?dl=0)
+
+
 
 ## Videos
 [Presentación DevArt] (https://youtu.be/30yGOxJJ2PQ)  
