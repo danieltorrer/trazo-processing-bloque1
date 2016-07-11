@@ -5,14 +5,14 @@ boolean guardar = false;
 void setup(){
   size(600, 600);
   background(#bababa);
-  //frameRate(60);
+  frameRate(60);
   beginRecord(PDF, "export/vector###.PDF");
 }
   
 // animar
 void draw(){  
   ellipseMode(CENTER);
-  //if( mousePressed){
+  if( mousePressed){
     fill(#379392);
     ellipse( mouseX, mouseY , 100, 100);
     fill(#4FB0C6);
@@ -23,9 +23,7 @@ void draw(){
     
     fill(#6C49B8);
     ellipse(width - mouseY, height - mouseX , 50, 50);
-  //}
-  
-
+  }
   
   if( guardar == true){
     endRecord();

@@ -12,7 +12,6 @@
  * 1-2                 : switch interpolation style
  */
  
-import generativedesign.*;
 
 int tileCountX = 2;
 int tileCountY = 10;

@@ -46,7 +46,14 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-build-tmp
-frames
+# Processing tmp files
 *.jpg
 *.pdf
+*.dll
+*.exe
+application.windows32
+application.windows64
+frames
+build-tmp
+web-export
+*.properties

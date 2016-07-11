@@ -3,7 +3,6 @@ float t = 0.0;
 
 void setup() {
   size(400,200);
-  smooth();
 }
 
 
@@ -11,8 +10,8 @@ void draw() {
   background(255);
   float xoff = t;
   noFill();
-  stroke(0);
-  strokeWeight(2);
+  stroke(0,0,0);
+  strokeWeight(3);
   beginShape();
   for (int i = 0; i < width; i++) {
     float y = noise(xoff)*height;
